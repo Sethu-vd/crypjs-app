@@ -1,0 +1,25 @@
+{
+  "files": {
+    "main.css": "/crypjs-app/static/css/main.6dea0f05.chunk.css",
+    "main.js": "/crypjs-app/static/js/main.8836d24f.chunk.js",
+    "main.js.map": "/crypjs-app/static/js/main.8836d24f.chunk.js.map",
+    "runtime-main.js": "/crypjs-app/static/js/runtime-main.fe57f56d.js",
+    "runtime-main.js.map": "/crypjs-app/static/js/runtime-main.fe57f56d.js.map",
+    "static/css/2.2b8316e7.chunk.css": "/crypjs-app/static/css/2.2b8316e7.chunk.css",
+    "static/js/2.8170620c.chunk.js": "/crypjs-app/static/js/2.8170620c.chunk.js",
+    "static/js/2.8170620c.chunk.js.map": "/crypjs-app/static/js/2.8170620c.chunk.js.map",
+    "static/js/3.7c3bf4c7.chunk.js": "/crypjs-app/static/js/3.7c3bf4c7.chunk.js",
+    "static/js/3.7c3bf4c7.chunk.js.map": "/crypjs-app/static/js/3.7c3bf4c7.chunk.js.map",
+    "index.html": "/crypjs-app/index.html",
+    "static/css/2.2b8316e7.chunk.css.map": "/crypjs-app/static/css/2.2b8316e7.chunk.css.map",
+    "static/css/main.6dea0f05.chunk.css.map": "/crypjs-app/static/css/main.6dea0f05.chunk.css.map",
+    "static/js/2.8170620c.chunk.js.LICENSE.txt": "/crypjs-app/static/js/2.8170620c.chunk.js.LICENSE.txt"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.fe57f56d.js",
+    "static/css/2.2b8316e7.chunk.css",
+    "static/js/2.8170620c.chunk.js",
+    "static/css/main.6dea0f05.chunk.css",
+    "static/js/main.8836d24f.chunk.js"
+  ]
+}
